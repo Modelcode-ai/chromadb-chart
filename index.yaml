@@ -6,7 +6,7 @@ entries:
     created: "2025-05-23T11:14:09.742373995Z"
     description: A Helm chart for Chroma DB vector store
     digest: 42259bc9d8a1a9a866b730f673b9444a8ca349ba80630a7388e7530b8fab9684
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -19,17 +19,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.24/chromadb-0.1.24.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.24/chromadb-0.1.24.tgz
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.6.3
     created: "2025-01-19T07:17:25.816855986Z"
     description: A Helm chart for Chroma DB vector store
     digest: 5871d5b1276154e77cc41f9551e12223e7c1d79d85b31a30137598869bc9949f
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -42,17 +42,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.23/chromadb-0.1.23.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.23/chromadb-0.1.23.tgz
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.6.2
     created: "2025-01-14T20:28:47.148511454Z"
     description: A Helm chart for Chroma DB vector store
     digest: b4b33b6f20de2cd9f6e938fd02fc7e2dbff712959517dacf4869ea04a7a97ba1
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -65,17 +65,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.22/chromadb-0.1.22.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.22/chromadb-0.1.22.tgz
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.5.23
     created: "2024-12-27T13:49:35.349528314Z"
     description: A Helm chart for Chroma DB vector store
     digest: bc715274bd327d040914f25d5eb657b533886fbb8adb91f8f2fadef6a62e8dd5
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -88,17 +88,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.21/chromadb-0.1.21.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.21/chromadb-0.1.21.tgz
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.5.5
     created: "2024-08-22T20:41:19.388224602Z"
     description: A Helm chart for Chroma DB vector store
     digest: 64a2140bdfed7f0f9ab6f08259d026f525691da6a3b4f19952d07cac5874a313
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -111,17 +111,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.20/chromadb-0.1.20.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.20/chromadb-0.1.20.tgz
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.4.14
     created: "2023-10-11T14:20:49.558161983Z"
     description: A Helm chart for Chroma DB vector store
     digest: 0ea77ff22ce8fd171036ce8e90c7dabda21744fa5f572e5f348fd65ffd6d4788
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -134,17 +134,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.19/chromadb-0.1.19.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.19/chromadb-0.1.19.tgz
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.4.13
     created: "2023-09-29T03:17:34.934593606Z"
     description: A Helm chart for Chroma DB vector store
     digest: 9024f895c1ebb6b22b68985dde09f42dd476eb6f99bbccb107af59f7cf001e2c
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -157,17 +157,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.18/chromadb-0.1.18.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.18/chromadb-0.1.18.tgz
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.4.13
     created: "2023-09-28T10:44:38.203902497Z"
     description: A Helm chart for Chroma DB vector store
     digest: 463f0f0b5a143bd1a79ee525137b4167bc661f41c86604a27ce3fcca45786c7f
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -180,17 +180,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.17/chromadb-0.1.17.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.17/chromadb-0.1.17.tgz
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.4.13
     created: "2023-09-27T19:47:44.620530889Z"
     description: A Helm chart for Chroma DB vector store
     digest: 915187e54db8ab67cea09733757182c348d57f22fc7c11c64823d906519490aa
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -203,17 +203,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.16/chromadb-0.1.16.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.16/chromadb-0.1.16.tgz
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.4.9
     created: "2023-09-10T07:43:43.066609741Z"
     description: A Helm chart for Chroma DB vector store
     digest: 1eff3a7c7656649b9b29858070383a267cf27d49441502fc777172b1d3b7e679
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -227,17 +227,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.15/chromadb-0.1.15.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.15/chromadb-0.1.15.tgz
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.4.7
     created: "2023-08-27T11:44:40.938924961Z"
     description: A Helm chart for Chroma DB vector store
     digest: e89c4475657bd62d9d6615347c6df6da4ba78dd3c183f65f61cec4430912f986
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -251,17 +251,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.14/chromadb-0.1.14.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.14/chromadb-0.1.14.tgz
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.4.6
     created: "2023-08-17T14:38:02.967136976Z"
     description: A Helm chart for Chroma DB vector store
     digest: 5bf1b69bd9f2c8bb158fa164e1392c534a030367af7c6b137f55f4d2f0581fd7
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -275,17 +275,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.13/chromadb-0.1.13.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.13/chromadb-0.1.13.tgz
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.4.6
     created: "2023-08-17T13:42:03.055904653Z"
     description: A Helm chart for Chroma DB vector store
     digest: 3b05ac33a0b4f46825c3263b8ff804636248a836e818c2ab15689412481e0d78
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -299,17 +299,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.12/chromadb-0.1.12.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.12/chromadb-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.4.6
     created: "2023-08-15T12:11:54.173347388Z"
     description: A Helm chart for Chroma DB vector store
     digest: 705d897d0ad38c9e103d955c7a20d104c55497fa4a4a4cca39ceb178020c11be
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -323,17 +323,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.11/chromadb-0.1.11.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.11/chromadb-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.4.3
     created: "2023-08-11T12:05:55.623995577Z"
     description: A Helm chart for Chroma DB vector store
     digest: 7fa1d0690c2846b5b1e0b511e9837ac8d0a55a73c3d047899d01e82631bd4897
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -347,17 +347,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.10/chromadb-0.1.10.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.10/chromadb-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.4.3
     created: "2023-08-01T08:58:15.256565551Z"
     description: A Helm chart for Chroma DB vector store
     digest: e55b2f6bc65d361d96b57be4d3edb5c8b02ae87ac7a5d8f94572dd7da211b7e7
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -371,17 +371,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.9/chromadb-0.1.9.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.9/chromadb-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.4.3
     created: "2023-07-31T15:22:20.478782664Z"
     description: A Helm chart for Chroma DB vector store
     digest: 5428b22405f41c678b137768d134c44bca0ac243a5cdc65458605dc426a0a812
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -395,17 +395,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.8/chromadb-0.1.8.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.8/chromadb-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.4.3
     created: "2023-07-29T12:53:04.968092773Z"
     description: A Helm chart for Chroma DB vector store
     digest: 15ee03354bac576faf9533177292dd3972032107cf717a9fcd645fabc37c3d13
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -419,17 +419,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.7/chromadb-0.1.7.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.7/chromadb-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.4.3
     created: "2023-07-29T09:26:44.784525804Z"
     description: A Helm chart for Chroma DB vector store
     digest: a17d77cd4ab33c363684e5d0791ae283a3a801a2b3b879411ace6615b6f07014
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -443,17 +443,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.6/chromadb-0.1.6.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.6/chromadb-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.4.3
     created: "2023-07-28T16:17:37.936339231Z"
     description: A Helm chart for Chroma DB vector store
     digest: ce0c03c22c5bdefe31fedd97a13b19904d35a86c2bb7ebfdd936f784fb9cbcbf
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -467,17 +467,17 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.5/chromadb-0.1.5.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.5/chromadb-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.4.3
     created: "2023-07-28T15:10:51.745730921Z"
     description: A Helm chart for Chroma DB vector store
     digest: 490d6ed560c2bf0f9f985a1a778929364fa63906eb2095635d9b3181534bdc29
-    home: https://github.com/amikos-tech/chromadb-chart
+    home: https://github.com/modelcode-ai/chromadb-chart
     icon: https://github.com/chroma-core/docs/blob/0b58523496c3e6d07aac39f066f73378ed926750/static/img/chroma.png
     keywords:
     - chromadb
@@ -491,9 +491,9 @@ entries:
       url: https://amikos.tech
     name: chromadb
     sources:
-    - https://github.com/amikos-tech/chromadb-chart
+    - https://github.com/modelcode-ai/chromadb-chart
     type: application
     urls:
-    - https://github.com/amikos-tech/chromadb-chart/releases/download/chromadb-0.1.4/chromadb-0.1.4.tgz
+    - https://github.com/modelcode-ai/chromadb-chart/releases/download/chromadb-0.1.4/chromadb-0.1.4.tgz
     version: 0.1.4
 generated: "2025-05-23T11:14:09.742535277Z"
