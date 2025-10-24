@@ -174,19 +174,22 @@ spec:
               subPath: config.yaml
             {{- end }}
           readinessProbe:
-            tcpSocket:
+            httpGet:
+              path: /api/v1
               port: {{ .Values.chromadb.serverHttpPort }}
             failureThreshold: {{ .Values.readinessProbe.failureThreshold }}
             timeoutSeconds: {{ .Values.readinessProbe.timeoutSeconds }}
             periodSeconds: {{ .Values.readinessProbe.periodSeconds }}
           livenessProbe:
-            tcpSocket:
+            httpGet:
+              path: /api/v1
               port: {{ .Values.chromadb.serverHttpPort }}
             failureThreshold: {{ .Values.livenessProbe.failureThreshold }}
             timeoutSeconds: {{ .Values.livenessProbe.timeoutSeconds }}
             periodSeconds: {{ .Values.livenessProbe.periodSeconds }}
           startupProbe:
-            tcpSocket:
+            httpGet:
+              path: /api/v1
               port: {{ .Values.chromadb.serverHttpPort }}
             failureThreshold: {{ .Values.startupProbe.failureThreshold }}
             periodSeconds: {{ .Values.startupProbe.periodSeconds }}
